@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Bitcoin -->
 
 ### Summary
-Bitcoin is the first crypto currency. <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Logo" width="42" height="42" align="right" margin-bottom="20px">
+Bitcoin is the first crypto currency. <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Logo" width="42" height="42" align="right" margin-bottom="30">
 
 
 ### History
