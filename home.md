@@ -1,6 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: CryptoCoinPedia -->
+<!-- SUBTITLE: Your Guide to the CryptoCurrency World! -->
 
 
 **Welcome to your CryptoCurrency Dictionary**
-Your Guide to the CryptoCurrency World!
+The CryptoCurrency & Blockchain guide and information center
