@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Your Guide to the CryptoCurrency World! -->
 
 
-> Welcome to your CryptoCurrency Dictionary
+ Welcome to your CryptoCurrency Dictionary
 
 -----
 
