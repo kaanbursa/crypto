@@ -9,7 +9,14 @@
 
 
 
-The CryptoCurrency & Blockchain guide and information center
+The CryptoCurrency & Blockchain guide and information center.
+
+Trying to Guide you to the new era of Finance and prevent scams from happening.
+
+
+
+
+
 
 
 
