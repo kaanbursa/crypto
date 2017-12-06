@@ -1,9 +1,11 @@
 <!-- TITLE: Ethereum -->
 <!-- SUBTITLE: A quick summary of Ethereum -->
 
-# Header
+# Summary
 Ethereum was founded in 2015
 
+
+# History
 
 
 -----
