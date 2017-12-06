@@ -10,7 +10,6 @@ Bitcoin was first launched in 2009  by anonymous character named Satoshi Nakamat
 
 
 
-`the price`
 -----
 
 
