@@ -13,6 +13,6 @@ The CryptoCurrency & Blockchain guide and information center
 
 
 
-```html
+
 <a href="mailto:kaanbursa9@gmail.com?Subject=Hello%20again" target="_top">Send Mail To Us!</a>
-```
+
