@@ -4,5 +4,5 @@
 # Header
 Bitcoin is the first crypto currency
 
-# Paragraph
+# Description
 Bitcoin was first launched in 2009
