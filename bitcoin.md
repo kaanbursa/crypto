@@ -1,11 +1,11 @@
 <!-- TITLE: Bitcoin -->
 <!-- SUBTITLE: A quick summary of Bitcoin -->
 
-# Header
-Bitcoin is the first crypto currency
+### Summary
+Bitcoin is the first crypto currency. <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Logo" width="42" height="42" align="right">
 
-# Description
-Bitcoin was first launched in 2009  by anonymous character named Satoshi Nakamato. <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin Logo" width="42" height="42" align="right">
+### History
+Bitcoin was first launched in 2009  by anonymous character named Satoshi Nakamato. 
 
 
 
