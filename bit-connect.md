@@ -1,4 +1,4 @@
-<!-- TITLE: Bit Connect -->
-<!-- SUBTITLE: A quick summary of Bit Connect -->
+<!-- TITLE: BitConnect -->
+<!-- SUBTITLE: A quick summary of BitConnect -->
 
 # Header
