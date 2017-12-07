@@ -29,6 +29,6 @@ Trying to Guide you to the new era of Finance and prevent scams from happening.
 -----
 
 
-<a href="mailto:kaanbursa9@gmail.com?Subject=Hello%20again" target="_top">
-<i class="fa fa-heart"></i>Send Mail To Us!</a>
+<a href="mailto:kaanbursa9@gmail.com?Subject=Hi%20!" target="_top">
+<i class="fa fa-heart"></i>Contact Us!</a>
 
